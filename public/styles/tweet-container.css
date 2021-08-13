@@ -1,0 +1,73 @@
+
+.tweet:hover {
+ box-shadow: 2px 2px indigo;
+}
+
+.tweet {
+  width: 100%;
+  border: 2px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;  
+  margin-bottom: 5px;
+}
+
+.tweet-container {
+  width: 90%;
+  margin-top: 3rem; 
+  display: flex;
+  flex-direction: column;
+}
+
+.person {
+ width: 95%;
+ display: flex;
+ justify-content: space-between;
+}
+
+.imgName {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: flex-start; 
+}
+
+.write {
+  width: 95%;
+  margin-top: 1em;
+  display: flex;
+  justify-content: flex-start;
+  border-bottom: 2px solid black;
+}
+
+.word {
+  color: grey; 
+}
+
+.bottom{
+  width: 95%;
+  justify-content: space-between;
+}
+
+.date{
+  width: 95%;
+  font-size: 15px;
+}
+
+.images {
+  font-size: 15px;
+}
+
+.fas.fa-heart:hover,
+.fas.fa-retweet:hover,
+.fas.fa-flag:hover {
+color:blue;
+}
+
+
+
+
+
+
+
+
