@@ -44,12 +44,12 @@
   color: grey; 
 }
 
-.bottom{
+.bottom {
   width: 95%;
   justify-content: space-between;
 }
 
-.date{
+.date {
   width: 95%;
   font-size: 15px;
 }
